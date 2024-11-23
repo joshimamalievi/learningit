@@ -6,4 +6,4 @@ temp/
 
 # ignoring checkinggitignore.txt file
 
-checkinggitignore
+*.txt
